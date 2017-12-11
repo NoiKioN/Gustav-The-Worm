@@ -4,5 +4,5 @@ Gustav the worm is an android game in development, adapting the ease of control 
 ## Story
 You play as Gustav a worm who gets flushed down the toilet, and has to survive in the pipes. You have to concentrate on swimming upstream and collecting oxygen from bottles whilst boosting yourself higher and higher in the system of pipes.
 ## Credits
-- @sziklamarci  - Programmer and Game Designer
-- @NoiKioN      - Programmer and Game Designer
+- ![sziklamarci](https://github.com/sziklamarci) - Programmer and Game Designer
+- ![NoiKioN](https://github.com/NoiKioN)         - Programmer and Game Designer
